@@ -1,0 +1,6 @@
+{
+  "name": "CleanStreak",
+  "description": "Proper waste disposal habit tracker with live photo verification, streak engine, credits ledger, calorie tracker, and civic reporting.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
